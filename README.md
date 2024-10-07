@@ -8,8 +8,8 @@
 
   <b>Overview:</b>
   
-  ![First](images/Screenshot 1.png)
-  ![Second](images/Screenshot 2.png)
+  ![Screenshot 1](https://github.com/user-attachments/assets/87e0762b-fc15-4587-80f9-5a38c8ca715a)
+  ![Screenshot 2](https://github.com/user-attachments/assets/9f08fb80-483a-495e-9f8e-107e8f3f25fc)
   </p>
   </body>
 </html>
