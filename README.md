@@ -7,11 +7,6 @@
   <b>Dataset used:</b> https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data
 
   <b>Overview:</b>
-  
-  ![Screenshot 2024-08-08 222328](https://github.com/user-attachments/assets/4cc581fb-fcae-415d-b332-23d6bfa6d860) 
-  ![Screenshot 2024-08-08 222420](https://github.com/user-attachments/assets/1ec86f9a-21ef-4d54-9caa-19e992ee7222)
-
-
   </p>
   </body>
 </html>
